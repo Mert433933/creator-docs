@@ -3,7 +3,7 @@ title: Asset Privacy
 description: Explore how the asset privacy system lets you control which Roblox creators can use your assets in their experiences.
 ---
 
-The **asset privacy system**, currently applicable to audio and video assets, lets you control which Roblox creators can use your assets in their experiences. You can share a private asset with your creator friends, upon which it will appear in their [Toolbox](../../projects/assets/toolbox.md) inventory.
+The **asset privacy system**, currently applicable to audio and video assets, lets you control which Roblox creators can use your assets in their experiences. You can share a private asset with your creator group , upon which it will appear in their [Toolbox](../../projects/assets/toolbox.md) inventory.
 
 ## Sharing Assets
 
